@@ -151,7 +151,7 @@ img#newspaper{height: 200px; width: 250px;}
                     <h3>Date: <span>February 20-22, 2024</span></h3>
                     <h3>Time: <span>10:30 a.m. – 2 p.m. (Each Day)</span></h3>
             
-                    <!-- <h3>Presenter: <span>William Arruda</span></h3> -->
+                    <<h3>Presenter: <span>William Arruda</span></h3>
                     <!-- Presenter Start -->
                    <!-- <div class="presenter">
                         <div class="presenter-img">
