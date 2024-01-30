@@ -121,13 +121,13 @@ img#newspaper{height: 200px; width: 250px;}
 <!-- ==== HTML ==== -->
 <!-- Main Start -->
 <div class="main">
-        <div class="upper">Congratulations! You are enrolled.</div>
+        <div class="upper">Course Schedule</div>
         <!-- Header Start -->
         <div class="header">
             <!-- Banner Start -->
             <!-- Banner End -->
             <!-- Hero Image Start -->
-            <div class="hero-image">
+            <<div class="hero-image">
                 <img src="https://cdn.mycrowdwisdom.com/icf/rteImages/MicrosoftTeams-image-1704457114926.png">
             </div>
             <!-- Hero Image End-->
