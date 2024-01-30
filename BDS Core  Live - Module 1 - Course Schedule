@@ -147,7 +147,7 @@ img#newspaper{height: 200px; width: 250px;}
             <div class="side-by-side">
                 <!-- Left Start -->
                 <div class="left">
-                    <h2>Course Information</h2>
+                    <h2>Course Information</h2>w
                     <h3>Date: <span>February 20-22, 2024</span></h3>
                     <h3>Time: <span>10:30 a.m. – 2 p.m. (Each Day)</span></h3>
             
