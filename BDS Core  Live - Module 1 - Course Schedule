@@ -158,6 +158,7 @@ img#newspaper{height: 200px; width: 250px;}
                             <a href="https://www.linkedin.com/in/williamarruda/" target="_blank"><h4>William Arruda @ LinkedIn</h4></a>
                             <img src="https://media.licdn.com/dms/image/C4E03AQFAPeFzo5OziQ/profile-displayphoto-shrink_200_200/0/1519050282604?e=2147483647&amp;v=beta&amp;t=Lay167Wd_N8ES0HwGVlX-OD3zStbP95d1sAfILOxn1k">
                         </div>
+                -->
                     <!-- Presenter Img End -->
                     <!-- Bio Start -->
                         <div class="bio">
@@ -181,7 +182,7 @@ img#newspaper{height: 200px; width: 250px;}
                         </div>
                     </div>
                     <!-- Presenter End -->
-                    -->
+                    
                 </div>
                 <!-- Left End -->
                 <!-- Right Start-->
