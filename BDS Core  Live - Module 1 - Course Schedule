@@ -150,15 +150,14 @@ img#newspaper{height: 200px; width: 250px;}
                     <h2>Course Information</h2>
                     <h3>Date: <span>February 20-22, 2024</span></h3>
                     <h3>Time: <span>10:30 a.m. – 2 p.m. (Each Day)</span></h3>
-            <! -- Hiding William's Presenter Bio 
-                    <h3>Presenter: <span>William Arruda</span></h3>
+            
+                    <!-- <h3>Presenter: <span>William Arruda</span></h3> -->
                     <!-- Presenter Start -->
-                    <div class="presenter">
+                   <!-- <div class="presenter">
                         <div class="presenter-img">
                             <a href="https://www.linkedin.com/in/williamarruda/" target="_blank"><h4>William Arruda @ LinkedIn</h4></a>
                             <img src="https://media.licdn.com/dms/image/C4E03AQFAPeFzo5OziQ/profile-displayphoto-shrink_200_200/0/1519050282604?e=2147483647&amp;v=beta&amp;t=Lay167Wd_N8ES0HwGVlX-OD3zStbP95d1sAfILOxn1k">
-                        </div>
-                -->
+                        </div> -->
                     <!-- Presenter Img End -->
                     <!-- Bio Start -->
                         <div class="bio">
