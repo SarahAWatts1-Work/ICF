@@ -121,7 +121,7 @@ img#newspaper{height: 200px; width: 250px;}
 <!-- ==== HTML ==== -->
 <!-- Main Start -->
 <div class="main">
-        <div class="upper">Course Schedule</div>
+        <div class="upper">ICF Business Development Series - Core Live</div>
         <!-- Header Start -->
         <div class="header">
             <!-- Banner Start -->
@@ -142,7 +142,7 @@ img#newspaper{height: 200px; width: 250px;}
         <!-- Header End -->
         <!-- Content Start-->
         <div class="content">
-            <h1>ICF Business Development Series (BDS) 2024: Core - Live Course</h1>
+            <h1>Course Schedule</h1>
             <!-- Side by Side Start-->
             <div class="side-by-side">
                 <!-- Left Start -->
